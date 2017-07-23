@@ -3,7 +3,7 @@ Retro Reversi
 **Retro Reversi** is an Android app of the board game Reversi (also known as Othello) that features online matchmaking and a retro look. Made with [LibGDX](https://libgdx.badlogicgames.com/).
 
 #### Screenshots
-<img width="250px" alt='Main Menu' src='https://github.com/cyrilico/LPOO1617_T1G7/blob/finalRelease/screenshots/main-menu.png?raw=true'/><img width="250px" alt='Game Screen' src='https://github.com/cyrilico/LPOO1617_T1G7/blob/finalRelease/screenshots/in-game.png?raw=true'/>
+<img width="250px" alt='Main Menu' src='https://github.com/cyrilico/LPOO1617_T1G7/blob/finalRelease/screenshots/main-menu.png?raw=true'/> <img width="250px" alt='Game Screen' src='https://github.com/cyrilico/LPOO1617_T1G7/blob/finalRelease/screenshots/in-game.png?raw=true'/>
 
 ## Compatibility
 #### Works on
