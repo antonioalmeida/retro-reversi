@@ -1,9 +1,13 @@
 Retro Reversi
+<img src='https://bettercodehub.com/edge/badge/cyrilico/LPOO1617_T1G7?branch=master&token=628dabbd02be15b31f0908f603e84e21d00e6a1a'>
 ======
 **Retro Reversi** is an Android app of the board game Reversi (also known as Othello) that features online matchmaking and a retro look. Made with [LibGDX](https://libgdx.badlogicgames.com/).
 
+<a href='https://play.google.com/store/apps/details?id=feup.lpoo.reversi&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="250px" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
+
 #### Screenshots
-<img width="250px" alt='Main Menu' src='https://github.com/cyrilico/LPOO1617_T1G7/blob/finalRelease/screenshots/main-menu.png?raw=true'/> <img width="250px" alt='Game Screen' src='https://github.com/cyrilico/LPOO1617_T1G7/blob/finalRelease/screenshots/in-game.png?raw=true'/>
+<img width="250px" alt='Main Menu' src='https://github.com/cyrilico/LPOO1617_T1G7/blob/finalRelease/screenshots/main-menu.png?raw=true'/> <img width="250px" alt='Game Screen' src='https://github.com/cyrilico/LPOO1617_T1G7/blob/finalRelease/screenshots/in-game.png?raw=true'/> <img width="250px" alt='Multiplayer Screen' src='https://github.com/cyrilico/feup-lpoo/blob/finalRelease/screenshots/multiplayer.png?raw=true'/>
 
 ## Compatibility
 #### Works on
@@ -29,7 +33,7 @@ Retro Reversi
 ### Installing the development environment
 * Clone this repository and open it with Android Studio. - more info [here](https://github.com/libgdx/libgdx/wiki/Setting-up-your-Development-Environment-(Eclipse,-Intellij-IDEA,-NetBeans)#setting-up-android-studio)
 * Set your Run Configuration to work in android/assets folder.
-* Run via emulator or USB. 
+* Run via emulator or USB.
 
 **Note:** for Play Games Services usage you must sign your app according to your own linked app - more info [here](https://developers.google.com/games/services/console/enabling)
 
@@ -41,7 +45,7 @@ Retro Reversi
 ## UML Diagrams
 ### Model Diagram
  [![Model](https://github.com/cyrilico/LPOO1617_T1G7/blob/finalRelease/uml/model.png?raw=true)](https://github.com/cyrilico/LPOO1617_T1G7/blob/finalRelease/uml/model.png?raw=true)
- 
+
 ### View & Presenter Diagram
  [![Model](https://github.com/cyrilico/LPOO1617_T1G7/blob/finalRelease/uml/view%20&%20presenter.png?raw=true)](https://github.com/cyrilico/LPOO1617_T1G7/blob/finalRelease/uml/view%20&%20presenter.png?raw=true)
 
