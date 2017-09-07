@@ -1,0 +1,8 @@
+
+feup.lpoo.reversi
+feup.lpoo.reversi.model
+feup.lpoo.reversi.presenter
+feup.lpoo.reversi.presenter.ai
+feup.lpoo.reversi.view
+feup.lpoo.reversi.view.board
+feup.lpoo.reversi.view.menus
