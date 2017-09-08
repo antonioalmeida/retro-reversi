@@ -5,17 +5,14 @@ Retro Reversi
 
 <a href='https://play.google.com/store/apps/details?id=feup.lpoo.reversi&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="250px" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
-**Note:** this is a view-only repository. For the original developement repository with more technical information, go [here](https://github.com/cyrilico/feup-lpoo).
+**Note:** this is a view-only repository. For the original development repository, go [here](https://github.com/cyrilico/feup-lpoo).
 
-#### Screenshots
+## Screenshots
 <img width="250px" alt='Main Menu' src='https://github.com/cyrilico/LPOO1617_T1G7/blob/finalRelease/screenshots/main-menu.png?raw=true'/> <img width="250px" alt='Game Screen' src='https://github.com/cyrilico/LPOO1617_T1G7/blob/finalRelease/screenshots/in-game.png?raw=true'/> <img width="250px" alt='Multiplayer Screen' src='https://github.com/cyrilico/feup-lpoo/blob/finalRelease/screenshots/multiplayer.png?raw=true'/>
 
 ## Compatibility
 #### Works on
 * Android 4.0.3 and up
-
-#### Does not work on
-* Devices it doesn't work with
 
 ## Contributors
 ### Artwork
